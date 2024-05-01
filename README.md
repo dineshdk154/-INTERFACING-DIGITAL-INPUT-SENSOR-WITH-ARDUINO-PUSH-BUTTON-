@@ -64,6 +64,7 @@ FIGURE -03
 
 
 ## PROGRAM 
+```
 
 int led=3;
 int pushbutton=4;
@@ -91,25 +92,7 @@ void loop()
     delay(500);
   }
 }
-
-
- 
- 
-
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
+```
 ## OUTPUT OF SIMULATION :
 ## ON
 ![EXP1](https://github.com/dineshdk154/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/104413084/d9d29f32-8c78-4cb5-8efe-b4d8a795bd1b)
@@ -118,5 +101,6 @@ void loop()
 
 ![EXP 1 OFF](https://github.com/dineshdk154/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/104413084/cbde0f89-8d98-401c-a8b7-d1e5f5a84ead)
 
-
+## RESULT:
+Thus the digital interfacing of circuit using Arduino circuit is completed successfully by tinkercard 
 
